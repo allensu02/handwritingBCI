@@ -45,4 +45,3 @@ This project is part of my preparation for a SWE internship interview at Precisi
    ```bash
    pip install -r requirements.txt
    ```
-3. jupyter notebook
